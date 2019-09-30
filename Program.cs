@@ -31,7 +31,7 @@ namespace Shared_Access_Signature_token_Generator
             var signature = Convert.ToBase64String(hmac.ComputeHash(Encoding.UTF8.GetBytes(stringToSign)));
             var sasToken = String.Format(CultureInfo.InvariantCulture, "SharedAccessSignature sr={0}&sig={1}&se={2}&skn={3}",
                 HttpUtility.UrlEncode(resourceUri), HttpUtility.UrlEncode(signature), expiry, keyName);
-            Console.WriteLine("please find the generating token:");
+            Console.WriteLine("please find the generated token:");
             Console.WriteLine(sasToken);
         }
     }
