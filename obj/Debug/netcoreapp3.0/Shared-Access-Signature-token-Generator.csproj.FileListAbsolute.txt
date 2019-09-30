@@ -1,0 +1,11 @@
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\bin\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.exe
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\bin\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.deps.json
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\bin\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.runtimeconfig.json
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\bin\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.runtimeconfig.dev.json
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\bin\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.dll
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\bin\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.pdb
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\obj\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.csprojAssemblyReference.cache
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\obj\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.AssemblyInfoInputs.cache
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\obj\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.AssemblyInfo.cs
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\obj\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.dll
+C:\dev\c-sharp\Shared-Access-Signature-token-Generator\obj\Debug\netcoreapp3.0\Shared-Access-Signature-token-Generator.pdb
